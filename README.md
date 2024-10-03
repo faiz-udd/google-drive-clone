@@ -13,6 +13,6 @@ After launching the application, users can sign up or log in to start uploading 
 
 
 ### License:
-StoreG is private project and No one is allowed to copy or use it.
+StoreG is private project and No one is allowed to copy it.
 
 Thank you for using StoreG! If you have any feedback or encounter any issues, feel free to reach out or submit an issue on GitHub.
